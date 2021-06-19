@@ -10,7 +10,7 @@ _Este proyecto de Open Data se divide en dos componentes:_
  #### _1. Componente I:_ 
  Plan de negocios con base a datos abiertos. Contiene un Plan de negocios (Word) y un Plan Financiero (Excel).
   
- #### _2. Componente II_
+ #### _2. Componente II:_
  Extracción de datos mediante web scraping utilizando el lenguaje de programación Python. Contiene el código fuente, el dataset csv y diccionario de datos.
 
 
