@@ -19,14 +19,14 @@ El Proyecto Github contine una sola rama en la cual se encuentran disponibles do
 
 ## Comenzando 🚀 
 
-_Las siguientes instrucciones permitirán que puedas acceder sin incovenientes a todos los componentes del proyecto en su máquina local._
+_Las siguientes instrucciones permitirán que puedas acceder sin incovenientes a todos los componentes del proyecto en tu máquina local._
 
 ### Pre-requisitos 📋
 
 _Para tener acceso completo a todos los componentes deberás tener lo siguiente:_
 
 * Microsoft Word y Microsoft Excel.
-* Algún IDE o Notebook en el que pueda correr el código fuente (preferentemente Jupyter, dado que en él no se necesitará instalar nada.
+* Algún IDE o Notebook en el que puedas correr el código fuente (preferentemente Jupyter, dado que en él no se necesitará realizar ninguna instalación).
 * Python instalado. 
 
 ### Clonación 👥
@@ -38,22 +38,22 @@ git clone (url)
 
 ### Visualización 🧐
 
-        **Poner imagen de la carpeta final clonada”
+![image](https://user-images.githubusercontent.com/71017838/122658995-07ddfc00-d141-11eb-9d4f-591b5b830bdd.png)
 
 ### Instalación 🔧
 
 _Obs: para el componente uno no se requiere ninguna instalación_
 
-Para acceder y ejecutar el código fuente, deberás subir o abrir el código fuente desde una notebook o IDE de tu preferencia. 
+Para acceder y ejecutar el código fuente, deberás subir o abrirlo desde una notebook o IDE de tu preferencia. 
 
-En caso de que no tengas instalada algunas de las librerías, utiizarás el siguiente comando:
+En caso de que no tengas instalada algunas de las librerías necesarias, utiizarás el siguiente comando:
 ```
 !pip install (libreria)
 ```
 
 ## Despliegue 📦
 
-_Una vez que tengas instalada todas las librerias, podrás darle "Ejecutar/Run" a todo el proyecto para obtener los resultados._
+_Una vez finalizada la instalación podrás darle "Ejecutar/Run" a todo el proyecto para obtener los resultados._
 
 
 ## Construido con 🛠️
@@ -64,11 +64,11 @@ _La herramienta utilizada para el scraping de una página web fue:_
 
 ## Autora ✒️
 
-* **Zileidy Milenna María Argüello Barreto** - *Estudiante TIE|UPA* - [zileidy.arguello@upa.edu.py]
+* **Zileidy Milenna María Argüello Barreto** - *Estudiante TIE | UPA* - [zileidy.arguello@upa.edu.py]
 
 ## Licencia 📄
 
-En el primer componente, donde se han utilizado los datos abiertos, ya se encuentran referenciados y explicados con la licencia que utlizan.
+El primer componente, donde se han utilizado los datos abiertos, ya posee referencias y licencia de los datos utilizados en las notas al pie.
 
 Para el segundo componente, se extrajeron los datos de la pagina web de la [DNCP](https://www.contrataciones.gov.py/), específicamente las licitaciones del IPS. Como la misma pertenece al catálogo de datos del gobierno, se encuentra bajo la licencia de Uso de la Información y los Datos Abiertos Públicos propiedad del Estado Paraguayo [(Decreto 4064 - Ley Nro. 5282/2014)](https://www.paraguay.gov.py/datos-abiertos/licencias).
 
