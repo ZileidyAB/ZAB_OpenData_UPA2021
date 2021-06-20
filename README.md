@@ -30,7 +30,7 @@ _Para tener acceso completo a todos los componentes deberás tener lo siguiente:
 * Python instalado. 
 
 ### Clonación 👥
-*Una vez creada la cuenta de github se deberá clonar el proyecto utlizando la URL y el comando:
+Una vez creada la cuenta de github se deberá clonar el proyecto utlizando la URL y el comando:
 
 ```
 git clone (url)
