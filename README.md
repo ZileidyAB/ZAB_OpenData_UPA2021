@@ -1,5 +1,5 @@
 #### ZAB_OpenData_UPA2021
-# 🖱️ TRABAJO PRÁCTICO SOBRE OPEN DATA – UPA 2021 🖱️
+#TRABAJO PRÁCTICO SOBRE OPEN DATA – UPA 2021 🖱️
 
 _El objetivo fundamental de este proyecto es el uso de los Datos Abiertos en la web._
 
