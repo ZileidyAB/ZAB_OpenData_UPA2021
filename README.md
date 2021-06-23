@@ -61,11 +61,12 @@ _Una vez finalizada la instalación podrás darle "Ejecutar/Run" al código fuen
 _La herramienta utilizada para el scraping de una página web fue:_
 
 * [Jupyter Notebook](https://jupyter.org/)
-* Lenguaje de Programación: [Python] (https://www.python.org/)
+* Lenguaje de Programación: [Python](https://www.python.org/)
 
 ## Autora ✒️
 
-* **Zileidy Milenna María Argüello Barreto** - [zileidy.arguello@upa.edu.py]
+* **Zileidy Milenna María Argüello Barreto** - zileidy.arguello@upa.edu.py
+* 
 *Estudiante de la Universidad Paraguayo Alemana (UPA) - Tecnologías de la Información Empresarial (TIE) | UPA* 
 
 ## Licencia 📄
@@ -76,6 +77,7 @@ Para el segundo componente, se extrajeron los datos de la pagina web de la [DNCP
 
 ## Observaciones 🖋️❗
 Fecha de scrapeo y creación del código: 18/06/2021
+
 Es posible que algunas características cambien conforme pasa el tiempo.
 
 ## Gracias por mirar este proyecto 📢🤓🎁
