@@ -42,7 +42,7 @@ git clone (url)
 
 ### Instalación 🔧
 
-_Obs: para el componente uno no se requiere ninguna instalación_
+_Obs: para el componente I no se requiere ninguna instalación_
 
 Para acceder y ejecutar el código fuente, deberás subir o abrirlo desde una notebook o IDE de tu preferencia. 
 
@@ -53,7 +53,7 @@ En caso de que no tengas instalada algunas de las librerías necesarias, utiizar
 
 ## Despliegue 📦
 
-_Una vez finalizada la instalación podrás darle "Ejecutar/Run" al código fuente del componente 2 para obtener los resultados._
+_Una vez finalizada la instalación podrás darle "Ejecutar/Run" al código fuente del componente II para obtener los resultados._
 
 
 ## Construido con 🛠️
