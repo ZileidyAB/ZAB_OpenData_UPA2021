@@ -67,7 +67,7 @@ _La herramienta utilizada para el scraping de una página web fue:_
 
 * **Zileidy Milenna María Argüello Barreto** - zileidy.arguello@upa.edu.py
 
-*Estudiante de la Universidad Paraguayo Alemana (UPA) - Tecnologías de la Información Empresarial (TIE) | UPA* 
+*Estudiante de la Universidad Paraguayo Alemana (UPA) - Tecnologías de la Información Empresarial (TIE)* 
 
 ## Licencia 📄
 
