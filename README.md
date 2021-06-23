@@ -14,7 +14,7 @@ _Este proyecto de Open Data se divide en dos componentes:_
  Extracción de datos mediante web scraping utilizando el lenguaje de programación [Python](https://www.python.org/). Contiene el código fuente, el dataset (.csv) y diccionario de datos.
 
 
-Este Proyecto Github contine una sola rama en la cual se encuentran disponibles dos carpetas que hacen referencia a los componentes mencionados recientemente. 
+Este Proyecto Github contiene una sola rama en la cual se encuentran disponibles dos carpetas que hacen referencia a los componentes mencionados recientemente. 
 
 
 ## Comenzando 🚀 
